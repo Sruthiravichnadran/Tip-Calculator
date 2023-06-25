@@ -30,6 +30,6 @@ Use this section to recap over some of your major learnings while working throug
 
 ### Links
 
-- Solution URL: 
+- Solution URL: https://github.com/Sruthiravichnadran/Tip-Calculator.git
 
-- Live Site URL: 
+- Live Site URL: https://cheerful-syrniki-7d43b3.netlify.app/
